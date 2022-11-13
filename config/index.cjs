@@ -8,6 +8,8 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
+  
+  USE_PASSAGE: 'push-deer',
   APP_ID: 'wx802179ecbb91753d',
 
   // 使用微信测试号：公众号APP_SECRET
@@ -21,9 +23,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '娇娇',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285wkSjyefNYTgk9Oaf5XPqyk',
+      id: 'PDU17825TPoTIcb0754hucXClavaEPwAGeby9Njt3',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'RJ6Ojrp8nHC-86-Vrsv9w_05b15SgzEef2LgqJ5SADc',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-24',
       festivals: [
@@ -46,9 +48,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '老庞',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285_n1OxDWHBYcIKkX3mBB_fE',
+      id: 'PDU17825TPoTIcb0754hucXClavaEPwAGeby9Njt3',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'RJ6Ojrp8nHC-86-Vrsv9w_05b15SgzEef2LgqJ5SADc',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-24',
       festivals: [
@@ -71,18 +73,18 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '4k5ROifQwCRLzBfKv5iDij_Glj4wrvP-66QyOx_2_ag',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
       name: '老庞',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285_n1OxDWHBYcIKkX3mBB_fE',
+      id: 'PDU17825TPoTIcb0754hucXClavaEPwAGeby9Njt3',
     },
     {
       name: '娇娇',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285wkSjyefNYTgk9Oaf5XPqyk',
+      id: 'PDU17825TPoTIcb0754hucXClavaEPwAGeby9Njt3',
     }
   ],
 
