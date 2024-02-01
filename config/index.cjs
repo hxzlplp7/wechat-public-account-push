@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx802179ecbb91753d',
+  APP_ID: 'wx6b417c9e548a62d4',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '149de9981fd84a6c00bc02198592a416',
+  APP_SECRET: '65cb00e4360bfb836eeac0daf211b8e0',
 
   PROVINCE: '湖北',
   CITY: '宜昌',
@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '娇娇',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285wkSjyefNYTgk9Oaf5XPqyk',
+      id: 'ozGTa6Zo4Qr0pH7xH_70HtLNUSxw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '-phD1jGtw3Ymu68l6upUSmPSCnvqTtmuiGw-Y2AJMAY',
+      useTemplateId: 'CVMCcSOFpHxmPbRUYCdfEXMkzy9kal7jQEnw4vCmeqw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-24',
       festivals: [
@@ -46,9 +46,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '老庞',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o7g285_n1OxDWHBYcIKkX3mBB_fE',
+      id: 'ozGTa6Zo4Qr0pH7xH_70HtLNUSxw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '-phD1jGtw3Ymu68l6upUSmPSCnvqTtmuiGw-Y2AJMAY',
+      useTemplateId: 'CVMCcSOFpHxmPbRUYCdfEXMkzy9kal7jQEnw4vCmeqw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-24',
       festivals: [
